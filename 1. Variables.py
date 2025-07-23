@@ -6,6 +6,7 @@
 #Line 12 is assigning the value of 'A' and 'B' to a new variable called 'C' by carrying
 #out a simple mathematical calculation. The mathematical expression '+' is used for this calculation.
 #Variables are output by calling on the 'print' function, as seen in line 13.
+#It's important to note that variables must be given meaningful names for future reference.
 
 A=20
 B=89
