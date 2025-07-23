@@ -1,6 +1,6 @@
-#Variables are assigned by using the assignment operator (=)
+#Variables are assigned by using the assignment operator '='
 #This stores the value on the right hand side into the variable name on the left hand side.
-#eg line 10 - A is the variable, 20 is the value.
+#eg line 10 - 'A' is the variable, '20' is the value.
 #Variables are case sensitive. If we later tried to call 'a' in the same example, we would get an error.
 #Variables can be reassigned. Instead of 'A=20', you can reassign to 'A=4'
 #Line 12 is assigning the value of 'A' and 'B' to a new variable called 'C' by carrying
